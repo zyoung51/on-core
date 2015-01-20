@@ -21,7 +21,7 @@
     "amqplib": "^0.3.0",
     "assert-plus": "^0.1.5",
     "colors": "^1.0.3",
-    "di": "git+ssh://git@github.com/renasar/di.js.git",
+    "di": "git+ssh://git@github.com/renasar/di.js.git#emc-2015-01-19",
     "ejs": "^2.0.8",
     "glob": "^4.3.2",
     "lodash": "^2.4.1",
