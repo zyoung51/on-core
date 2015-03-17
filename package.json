@@ -22,7 +22,7 @@
     "anchor": "^0.10.2",
     "assert-plus": "^0.1.5",
     "colors": "^1.0.3",
-    "di": "git+ssh://git@github.com/renasar/di.js.git",
+    "di": "git+ssh://git@github.com/renasar/di.js.git#emc-2015-03-16",
     "ejs": "^2.0.8",
     "glob": "^4.3.2",
     "jsonschema": "^1.0.0",
